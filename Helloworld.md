@@ -1,3 +1,1 @@
-## This is primary heading
-### This is a markdown file Heading
-
+## This is a markdown file
